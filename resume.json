@@ -1,0 +1,134 @@
+{
+  "info": {
+    "name": "Mike Mitchel",
+    "intro": "Highly skilled Senior Developer with six years of expertise in software development and a passion for crafting best practices code that delivers exceptional results.",
+    "email": "mike@mikemtiche.com",
+    "phone": "312-344-0036",
+    "linkedIn": "https://www.linkedin.com/mikemitchel",
+    "github": "https://www.github.com/mikemitchel",
+    "gitlab": "",
+    "portfolio": "htttps://www.mikemitchel.com",
+    "facebook": "",
+    "instagram": ""
+  },
+
+  "experience": [
+    {
+      "title": "Principal Consultant & Senior Developer",
+      "company": "Bitovi",
+      "startMonth": "June",
+      "startYear": "2015",
+      "endMonth": "Dec",
+      "endYear": "2022",
+      "highlights": [
+        "Managed multiple client projects",
+        "Guided successful projects as the Principal Consultant for client stakeholders, delivering high value software and tooling.",
+        "Managed and mentored team members as a Senior Team Lead",
+        "Performed resource management and technical recruiting interviews",
+        "Championed and delivered best practices code",
+        "Delivered clean, readable, and maintainable code complete with tests",
+        "Automated testing via Continuous Integration and Deployment",
+        "Maintained documentation and best practices for the codebase"
+      ]
+    },
+    {
+      "title": "Assistant Instructor",
+      "company": "Galvanize (was MakerSquare)",
+      "startMonth": "Feb",
+      "startYear": "2016",
+      "endMonth": "DMayc",
+      "endYear": "2016",
+      "highlights": [
+        "Assistant Instructor to 2 boot camp cohorts, teaching the same fundamentals I had just learned as well as developing an internal staffing app to record and manage student instructor hours"
+      ]
+    },
+    {
+      "title": "Founder & Principal Consultant",
+      "company": "Lab9 Inc",
+      "startMonth": "June",
+      "startYear": "2009",
+      "endMonth": "June",
+      "endYear": "2016",
+      "highlights": [
+        "Built a successful IT consulting business by delivering exceptional service, creating a robust referral pipeline",
+        "Managed every aspect of the business while being the principal consultant",
+        "Sold the client list to pursue web development"
+      ]
+    }
+  ],
+  "notableProjects": [
+    {
+      "company": "KFC, Web Order App",
+      "stack": ["TypescriptJS", "ReactJS", "NextJS", "Jest", "GraphQL"],
+      "description": "Refactored the entire customer order app, improving test coverage by 30% and establishing best practices code organization."
+    },
+    {
+      "company": "CCALI, A2Jauthor.com",
+      "stack": ["CanJS", "NodeJS", "PHP", "MYSQL", "JQuery", "AMP stack"],
+      "description": " Full stack development across a multi-repo Access to Justice application with nearly 1 million documents produced per year: A2J Author, A2J Viewer, and Document Assembly Tool."
+    },
+    {
+      "company": "Engauge, Epiqar.com",
+      "stack": [
+        "CanJS",
+        "NodeJS",
+        "Express",
+        "HTML 5 Video & Audio API",
+        "AWS SQS Queing",
+        "AWS S3 Storage"
+      ],
+      "description": "Full Stack medical video conference app for remote surgery and medical sales, Added high-quality snapshot feature allowing doctors to capture key moments including on-screen annotations."
+    }
+  ],
+  "education": {
+    "school": "Galvanize Full Stack Bootcamp (was MakerSquare)",
+    "startMonth": "June",
+    "startYear": "2015",
+    "endMonth": "Dec",
+    "endYear": "2022",
+    "studies": "60 hr/week intensive Web Development bootcamp that involved best practices fundamentals and building a greenfield project utilizing the YouTube API."
+  },
+  "skills": [
+    "Javascript",
+    "NodeJS",
+    "ReactJS",
+    "Typescript",
+    "NextJS",
+    "GIT",
+    "PHP",
+    "Jest",
+    "Mocha",
+    "Chai",
+    "HTML5",
+    "CSS3",
+    "LESS",
+    "SCSS",
+    "jQuery",
+    "Storybook",
+    "Docker",
+    "AWS"
+  ],
+  "softSkills": [
+    "Strong Written and Verbal Communication",
+    "High Emotional Intelligence",
+    "Stakeholder and Product Owner Liaison",
+    "Project Management",
+    "Team Mentoring",
+    "Code Review",
+    "Consulting",
+    "Agile Planning",
+    "Motivated Lifelong Learner"
+  ],
+  "coverLetter": {
+    "name": "Mike Mitchel",
+    "email": "mike@mikemtiche.com",
+    "phone": "312-344-0036",
+    "date": "",
+    "toWhom": "Hiring Manager",
+    "company": "",
+    "location": "Ann Arbor",
+    "signOff": "Best",
+    "content": "I am very interested in your Senior Software Developer & Consultant position at Atomic Object, and feel I will be a great fit for the position. My technical skills and experience align well with the position, but I also bring strong personal skills from my experience Consulting for both IT and Development, managing projects, teams and high level client stakeholders.. I love the remote work option, but also appreciate that you are located in Ann Arbor as my wife and I just relocated here, and would love to be in the office, building rapport and connecting to the local community. Looking forward to hearing from you soon.",
+    "trivia": " I once paid my rent playing bass guitar in a full time disco band."
+  }
+}
