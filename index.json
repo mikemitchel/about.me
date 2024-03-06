@@ -8,29 +8,67 @@
     "url": "https://mikemitchel.com",
     "summary": "Highly skilled Senior Developer with six years of expertise in software development and a passion for crafting best practices code that delivers exceptional results.",
     "location": {
-      "address": "22111 Makiling",
-      "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
+      "address": "",
+      "postalCode": "",
+      "city": "Ann Arbor",
+      "countryCode": "US",
+      "region": "MI"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "johndoe",
-        "url": "http://twitter.com/johndoe"
+        "network": "LinkedIn",
+        "username": "mikemitchel",
+        "url": "https://www.linkedin.com/mikemitchel"
+      },
+      {
+        "network": "Github",
+        "username": "mikemitchel",
+        "url": "https://www.github.com/mikemitchel"
       }
     ]
   },
   "work": [
     {
-      "name": "Company",
-      "position": "Developer",
-      "url": "http://somecompany.com",
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-01",
+      "name": "Bitovi",
+      "position": "Principal Consultant & Senior Developer",
+      "url": "https://www.bitovi.com",
+      "startDate": "2016-06-15",
+      "endDate": "2022-12-31",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "highlights": ["Lead Developer of Innovation hub"]
+      "highlights": [
+        "Managed multiple client projects",
+        "Guided successful projects as the Principal Consultant for client stakeholders, delivering high value software and tooling.",
+        "Managed and mentored team members as a Senior Team Lead",
+        "Performed resource management and technical recruiting interviews",
+        "Championed and delivered best practices code",
+        "Delivered clean, readable, and maintainable code complete with tests",
+        "Automated testing via Continuous Integration and Deployment",
+        "Maintained documentation and best practices for the codebase"
+      ]
+    },
+    {
+      "name": "Galvanize (was MakerSquare)",
+      "position": "Assistant Instructor",
+      "url": "https://www.galvanize.com",
+      "startDate": "2016-02-15",
+      "endDate": "2016-05-15",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "highlights": [
+        "Assistant Instructor to 2 boot camp cohorts, teaching the same fundamentals I had just learned as well as developing an internal staffing app to record and manage student instructor hours"
+      ]
+    },
+    {
+      "name": "Lab9, Inc",
+      "position": "Founder & Principal Consultant",
+      "url": "https://www.lab9inc.com",
+      "startDate": "2009-06-01",
+      "endDate": "2016-06-15",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "highlights": [
+        "Built a successful IT consulting business by delivering exceptional service, creating a robust referral pipeline",
+        "Managed every aspect of the business while being the principal consultant",
+        "Sold the client list to pursue web development"
+      ]
     }
   ],
   "volunteer": [
